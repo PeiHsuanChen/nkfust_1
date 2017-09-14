@@ -8,7 +8,7 @@
 
 
 
-[!(青春.png)](https://www.youtube.com/watch?v=9MMIB61e6sM "青春")
+[!(https://www.youtube.com/watch?v=9MMIB61e6sM.jpg)](https://www.youtube.com/watch?v=9MMIB61e6sM "青春")
 
-!(888.gif "維尼QQ")
+!(維尼.png "維尼QQ")
 
