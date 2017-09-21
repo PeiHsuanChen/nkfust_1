@@ -4,6 +4,6 @@
 
 ## 成員:0424006 倪慧芳 0424034 陳姵瑄
 
-### 指導老師:曾守正v
+### 指導老師:曾守正
 
-![NKFUST](YaSee123.jpg "YaSee")
+![NKFUST](YaSee456.jpg "YaSee")
