@@ -41,7 +41,7 @@
 
 
 ### 期末報告
-![NKFUST](投影片1.jpg "投影片1")
-![NKFUST](投影片2.jpg "投影片2")
-![NKFUST](投影片3.jpg "投影片3")
+![NKFUST](投影片1.jpG "投影片1")
+![NKFUST](投影片2.jpG "投影片2")
+![NKFUST](投影片3.jpG "投影片3")
 
