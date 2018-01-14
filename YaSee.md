@@ -57,7 +57,7 @@
 ![NKFUST](4.JPG "投影片3")
 ![NKFUST](5.JPG "投影片3")
 
-![NKFUST](投影片12.JPG "投影片1")
-![NKFUST](投影片19.JPG "投影片2")
-![NKFUST](投影片20.JPG "投影片3")
-![NKFUST](投影片21.JPG "投影片3")
+![NKFUST](投影片12.GIF "投影片1")
+![NKFUST](投影片19.GIF "投影片2")
+![NKFUST](投影片20.GIF "投影片3")
+![NKFUST](投影片21.GIF "投影片3")
